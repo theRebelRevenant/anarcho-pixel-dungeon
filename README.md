@@ -1,26 +1,36 @@
-# Shattered Pixel Dungeon
+# Anarcho Pixel Dungeon
 
 A Roguelike RPG, with randomly generated levels, items, enemies, and traps!
-Based on the source code of Pixel Dungeon, by Watabou.
+Based on the source code of Shattered Pixel Dungeon, by Evan (Evan@ShatteredPixel.com) which was based on Pixel Dungeon by Watabou.
+
+This is a pet project for myself (among anyone and no one) in terms of playing around with the code of a game I like. Thanks to Evan and Watabou for a fantastic game! My aim is to first mess with the graphics and text and maybe eventually the mechanics. I have forked it at an arbitrary point. First thing I want to do is give it an Anarchist makeover!
+
+To be implemented:
+- Main heros will be Anarchist themed
+   - Warrior    ->  ???
+   - Mage       -> ???
+   - Rogue      -> ???
+   - Huntress -> ???
+   
+- Context in text will be to destroy the monarchy
+- Make reasonable vegan options
+- Make a new level
+- Replace "christmas" event with a mayday one, and possibly more significant days
+- Replace rat king with something else
+- Replace bosses with enemies of Anarchism
+   - Goo -> ???
+   - DM300 - ???
+   - Tengu -> ???
+   - Dwarf King -> Dwarf King
+   - Yog -> ???
+  
+Bare with me as this is a work in progress!
+
 
 Look below for compilation instructions.
 
-Shattered Pixel Dungeon on Google Play:
-https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon
 
-On Amazon:
-https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M
-
-On F-Droid (Which compiles directly from this source code):
-https://f-droid.org/repository/browse/?fdid=com.shatteredpixel.shatteredpixeldungeon
-
-Official website and blog:
-http://www.shatteredpixel.com
-
-Source code of original Pixel Dungeon (adapted to use newer build tools):
-https://github.com/00-Evan/pixel-dungeon-gradle
-
-# Compiling Shattered Pixel Dungeon
+ # Compiling Shattered Pixel Dungeon
 
 To compile Shattered Pixel Dungeon you will need:
 - A computer which meets the [system requirements for Android Studio](https://developer.android.com/studio#Requirements)
@@ -75,6 +85,5 @@ Additionally, note that by default Shattered Pixel Dungeon uses R8 on release bu
 
 The Android Studio website includes [a guide for ways to distribute your app.](https://developer.android.com/studio/publish)
 
-Note that by distributing your modification of Shattered Pixel Dungeon, you are bound by the terms of the GPLv3 license, which requires that you make any modifications you have made open-source. If you followed this guide and are using version control, that is already set up for you as your forked repository is publicly hosted on GitHub.
+Note that by distributing your modification of Anarcho Pixel Dungeon, you are bound by the terms of the GPLv3 license, which requires that you make any modifications you have made open-source. If you followed this guide and are using version control, that is already set up for you as your forked repository is publicly hosted on GitHub.
 
-If you intend to make your version of the game available on Google Play **PLEASE CONTACT ME AT THE FOLLOWING EMAIL ADDRESS:** Evan@ShatteredPixel.com . There are various aspects of Google's Developer Policies that go beyond the scope of a simple 'how to compile' guide. If you do not take necessary precautions before attempting to publish on Google Play, your version of the game will almost certainly be taken down for impersonating Shattered Pixel Dungeon or Pixel Dungeon.
